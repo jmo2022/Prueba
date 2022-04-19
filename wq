@@ -1,0 +1,26 @@
+[33mcommit b09f43c86ded9bfef75539c49c39c8b3ceff28df[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: 0c3l0t <ortizjuanm93@hotmail.com>
+Date:   Tue Apr 19 09:41:49 2022 -0300
+
+    mi segundo commit local
+
+[33mcommit cfa08e79ceff4764bd2e55ff3be69642943bbd6f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 0b17444 42c170c
+Author: jmo2022 <103972215+jmo2022@users.noreply.github.com>
+Date:   Tue Apr 19 09:27:59 2022 -0300
+
+    Merge pull request #1 from jmo2022/develop
+    
+    Update Prueba1.html
+
+[33mcommit 42c170c1f658cb51b8337e01410f07adae4ca195[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: jmo2022 <103972215+jmo2022@users.noreply.github.com>
+Date:   Tue Apr 19 09:26:43 2022 -0300
+
+    Update Prueba1.html
+
+[33mcommit 0b1744446eed024f6b818261b6288240199c92be[m
+Author: 0c3l0t <ortizjuanm93@hotmail.com>
+Date:   Tue Apr 19 09:14:11 2022 -0300
+
+    Primer commit
